@@ -15,8 +15,8 @@ Node version -v12.18.0
 
 To run this project locally in your pc or make it yours:
 
-    ```$ git clone https://github.com/     mojib2014/git_practice.git```
+`$ git clone https://github.com/ mojib2014/git_practice.git`
 
-    ```$ cd mixMessagGenerator```
+`$ cd mixMessagGenerator`
 
-    ```$ npm install```
+`$ npm install`
