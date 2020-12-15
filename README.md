@@ -14,6 +14,7 @@ Node version -v12.18.0
 ## setup
 
 To run this project locally in your pc or make it yours:
+In a terminal run the following commands
 
 `$ git clone https://github.com/ mojib2014/git_practice.git`
 
